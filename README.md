@@ -3,7 +3,7 @@
 Real-time gender detection using tensorflow and opencv
 
 <h1>How to run</h1>
-Once the requirments are satisfied a quick
+Once the requirements are satisfied a quick
 
 ```
 python main.py
