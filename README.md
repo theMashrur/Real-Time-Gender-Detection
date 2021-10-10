@@ -2,6 +2,15 @@
 
 Real-time gender detection using tensorflow and opencv
 
+<h1>How to run</h1>
+Once the requirments are satisfied a quick
+
+```
+python main.py
+```
+
+should do the trick
+
 <h1>Built using</h1>
 <ul>
     <li><a href="https://www.tensorflow.org/">Tensorflow</a> - a low-level deep learning API built by google</li>
