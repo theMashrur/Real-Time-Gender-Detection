@@ -8,8 +8,7 @@ Once the requirments are satisfied a quick
 ```
 python main.py
 ```
-
-should do the trick
+in the terminal should do the trick
 
 <h1>Built using</h1>
 <ul>
